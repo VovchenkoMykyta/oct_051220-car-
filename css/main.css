@@ -1,0 +1,195 @@
+.main-container{
+    width: 600px;
+    height: 600px;
+    position: relative;
+    margin: 0 25%;
+}
+.lower-case{
+    width: 500px;
+    height: 100px;
+    background-color: rgba(69,69,69,0.35);
+    border: 1px solid black;
+    position: absolute;
+    bottom: 150px;
+    left: 100px;
+    border-radius: 25px;
+}
+.upper-case{
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    width: 450px;
+    height: 140px;
+    border: 1px solid black;
+    position: absolute;
+    bottom: 251px;
+    left: 125px;
+}
+.windshield{
+    width: 400px;
+    height: 105px;
+    background: transparent;
+    border: 3px solid black;
+    position: absolute;
+    bottom: 264px;
+    left: 150px;
+    border-radius: 10px;
+}
+.left-wheel{
+    width: 70px;
+    height: 70px;
+    border: 1px solid black;
+    position: absolute;
+    bottom: 79px;
+    left: 120px;
+}
+.right-wheel{
+    width: 70px;
+    height: 70px;
+    border: 1px solid black;
+    position: absolute;
+    bottom: 79px;
+    left: 510px;
+}
+.left-rearview-mirror{
+    width: 40px;
+    height: 30px;
+    background-color: black;
+    border-top-left-radius: 7px;
+    border-bottom-left-radius: 7px;
+    position: absolute;
+    bottom: 280px;
+    left: 85px;
+}
+.right-rearview-mirror{
+    width: 40px;
+    height: 30px;
+    background-color: black;
+    border-top-right-radius: 7px;
+    border-bottom-right-radius: 7px;
+    position: absolute;
+    bottom: 280px;
+    left: 577px;
+}
+.left-stand{
+    width: 10px;
+    height: 10px;
+    background-color: black;
+    position: absolute;
+    bottom: 393px;
+    left: 185px;
+}
+.right-stand{
+    width: 10px;
+    height: 10px;
+    background-color: black;
+    position: absolute;
+    bottom: 393px;
+    left: 515px;
+}
+.left-flasher{
+    width: 210px;
+    height: 40px;
+    background-color: red;
+    position: absolute;
+    border: 1px solid black;
+    bottom: 403px;
+    left: 140px;
+}
+.right-flasher{
+    width: 210px;
+    height: 40px;
+    background-color: blue;
+    position: absolute;
+    border: 1px solid black;
+    bottom: 403px;
+    left: 350px;
+}
+.left-headlight{
+    width: 60px;
+    height: 30px;
+    background-color: #64f2ff;
+    position: absolute;
+    border: 1px solid black;
+    bottom: 180px;
+    left: 150px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.right-headlight{
+    width: 60px;
+    height: 30px;
+    background-color: #64f2ff;
+    position: absolute;
+    border: 1px solid black;
+    bottom: 180px;
+    left: 490px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.left-turn-signal{
+    width: 15px;
+    height: 30px;
+    background-color: orangered;
+    position: absolute;
+    border: 1px solid black;
+    bottom: 180px;
+    left: 135px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+}
+.right-turn-signal{
+    width: 15px;
+    height: 30px;
+    background-color: orangered;
+    position: absolute;
+    border: 1px solid black;
+    bottom: 180px;
+    left: 551px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.left-ring {
+    width: 30px;
+    height: 30px;
+    background: transparent;
+    border-radius: 15px;
+    border: 1px solid black;
+    position: absolute;
+    bottom: 180px;
+    left: 300px;
+}
+.left-center-ring{
+    width: 30px;
+    height: 30px;
+    background: transparent;
+    border-radius: 15px;
+    border: 1px solid black;
+    position: absolute;
+    bottom: 180px;
+    left: 325px;
+}
+.right-center-ring{
+    width: 30px;
+    height: 30px;
+    background: transparent;
+    border-radius: 15px;
+    border: 1px solid black;
+    position: absolute;
+    bottom: 180px;
+    left: 350px;
+}
+.right-ring{
+    width: 30px;
+    height: 30px;
+    background: transparent;
+    border-radius: 15px;
+    border: 1px solid black;
+    position: absolute;
+    bottom: 180px;
+    left: 375px;
+}
+.wind{
+    position: relative;
+    bottom: -1px;
+    left: 4px;
+}
